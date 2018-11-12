@@ -6,7 +6,7 @@
 
 HWTEST_VERSION = chip/stable
 HWTEST_REPO_NAME=CHIP-hwtest
-HWTEST_SITE = https://github.com/NextThingCo/$(HWTEST_REPO_NAME)
+HWTEST_SITE = https://github.com/Project-chip-crumbs/$(HWTEST_REPO_NAME)
 HWTEST_SITE_METHOD = git
 HWTEST_DEPENDENCIES = lshw stress i2c-tools\
 
